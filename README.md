@@ -1,5 +1,10 @@
-# Pic_proc_HUFFMANCompress
+# Pic_proc_HUFFMANcompress
 This code will compress a gray-scale picture with Huffman algorithm
+
+
+Requirements:
+<br>Python 3.5.2
+<br>Install Pip(9.0.1), requirements file
 
 How it works :
   <br>in input place image address

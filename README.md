@@ -8,4 +8,4 @@ Python 3.5.2
 
 # How it works :
 Image address as Input. 
-if the image wasn't in gray-scale mode ,program would convert it to gray-scale and Compress it in huffman-Code.
+<br>if the image wasn't in gray-scale mode ,program would convert it to gray-scale and Compress it in huffman-Code.

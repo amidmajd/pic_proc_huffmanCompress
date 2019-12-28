@@ -1,4 +1,4 @@
-# Pic_proc_HUFFMANcompress
+# Picture Compression Using HUFFMANcompress Algorithm
 This code will compress a gray-scale picture with Huffman algorithm
 
 
